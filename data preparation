@@ -2,7 +2,7 @@
 import pandas as pd
 import seaborn as sns
 
-# Importing the dataset
+#Importing the dataset
 def dataset_import(filepath, filename):
   df= pd.read_csv(filepath + filename + '.csv')
   return df
