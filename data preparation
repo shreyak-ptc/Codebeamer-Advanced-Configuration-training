@@ -1,5 +1,5 @@
 ##Can other visualisation library be used ?
-## weight change from 360g to 500g
+## weight <450g
 
 #Importing the libraries 
 import pandas as pd
